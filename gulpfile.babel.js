@@ -1,3 +1,4 @@
+'use strict';
 import gulp from "gulp";
 import cp from "child_process";
 import gutil from "gulp-util";
